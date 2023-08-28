@@ -12,3 +12,6 @@
   * cpp file: systemc modeling file
 * report/ folder: a word report and a slide
 * simulation_project/Fuel-Pump-Control-Embedded-System/ folder: the main simulation project
+# Architecture
+## Simulation architecture
+## PCB circuit
