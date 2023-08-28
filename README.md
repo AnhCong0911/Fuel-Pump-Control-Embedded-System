@@ -14,4 +14,13 @@
 * simulation_project/Fuel-Pump-Control-Embedded-System/ folder: the main simulation project
 # Architecture
 ## Simulation architecture
+System simulation on the Proteus.  
+<p align="center">
+<img src="images/simulation architecture.png" alt="simulation architecture" width="500" />  
+</p>
+
 ## PCB circuit
+System's integrated circuit in the form of a PCB
+<p align="center">
+<img src="images/pcb circuit.png" alt="simulation architecture" width="500" />  
+</p>
